@@ -5,6 +5,7 @@ It is a simple python tkinter based application to scrape information related to
 ## Requirements
 
 Mechanize : Use the package manager [pip](https://pip.pypa.io/en/stable/) to install mechanize.
+
 Beautifulsoup4 : Use the package manager [pip](https://pip.pypa.io/en/stable/) to install Beautifulsoup4.
 
 ```bash
