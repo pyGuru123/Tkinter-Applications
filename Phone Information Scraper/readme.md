@@ -1,6 +1,6 @@
 # Phone Information Scraper
 
-It is a simple python tkinter based application to scrape information related to the entered phone number from [find and trace](https://www.findandtrace.com/trace-mobile-number-location) website. The application requires an active internet connection for fetching result
+It is a simple python tkinter based application to scrape information related to the entered phone number from [find and trace](https://www.findandtrace.com/trace-mobile-number-location) website. The application requires an active internet connection for fetching result. The app scrapes phone information for indian number only.
 
 ## Requirements
 
@@ -17,7 +17,7 @@ Mechanize is used to parse data to the search bar and press submit button in the
 
 ## Usage
 
-Double click the phone_info.pyw to open the GUI application, then enter the phone number in the search box and click the search menu to fetch the related information
+Double click the phone_info.pyw to open the GUI application, then enter the 10 digit valid phone number in the search box and click the search menu to fetch the related information. Don't put +91 or 0 or + in front of the 10 digit phone number
 
 
 ## Contributing
