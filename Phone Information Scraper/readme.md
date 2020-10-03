@@ -19,7 +19,7 @@ Mechanize is used to parse data to the search bar and press submit button in the
 
 ## Usage
 
-Double click the phone_info.pyw to open the GUI application, then enter the 10 digit valid phone number in the search box and click the search menu to fetch the related information. Don't put +91 or 0 or + in front of the 10 digit phone number
+Double click the application.pyw to open the GUI application, then enter the 10 digit valid phone number in the search box and click the search menu to fetch the related information. Don't put +91 or 0 or + in front of the 10 digit phone number
 
 
 ## Contributing
