@@ -2,7 +2,7 @@
 
 Calculator is a simple python tkinter based calculator application.
 
-![Alt text](calculator.png?raw=true "Title")
+![Alt text](app.png?raw=true "Calculator")
 
 ## Requirements
 

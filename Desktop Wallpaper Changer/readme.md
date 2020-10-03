@@ -2,6 +2,8 @@
 
 It is a simple python tkinter based application to change desktop wallpapers. Support for both random online and offline wallpapers
 
+![Alt text](app.png?raw=true "Desktop Wallpaper Changer")
+
 ## Requirements
 
 Requests : Use the package manager [pip](https://pip.pypa.io/en/stable/) to install requests.

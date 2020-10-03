@@ -2,6 +2,8 @@
 
 LATEX EG is a simple python tkinter based application to generate LATEX equations in image formats which can be later embedded in webpages and other supported files. The app requires an active internet connection to generate images.
 
+![Alt text](calculator.png?raw=true "LATEX Equation Generator")
+
 Images are generated using the Google charts API whose documentation can be found here [Charts](https://developers.google.com/chart/infographics/docs/formulas)
 
 ## Requirements
