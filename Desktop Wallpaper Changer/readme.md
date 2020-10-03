@@ -14,7 +14,7 @@ pip install requests
 
 ## Usage
 
-Double click the wallpaper_changer.pyw script to open the GUI application, then either select local file or download a random wallpaper [ internet connection is required ]
+Double click the application.pyw script to open the GUI application, then either select local file or download a random wallpaper [ internet connection is required ]
 
 
 ## Contributing
