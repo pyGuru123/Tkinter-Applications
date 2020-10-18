@@ -4,11 +4,15 @@ It is a simple python tkinter based application to scrape information related to
 
 ![Alt text](app.png?raw=true "Phone Information Scraper")
 
+## How to Download
+
+Download this project from here [Download Weatherzilla - Phone Information Scraper](https://downgit.github.io/#/home?url=https://github.com/pyGuru123/Tkinter-Applications/tree/master/Phone%20Information%20Scraper)
+
 ## Requirements
 
-Mechanize : Use the package manager [pip](https://pip.pypa.io/en/stable/) to install mechanize.
-
-Beautifulsoup4 : Use the package manager [pip](https://pip.pypa.io/en/stable/) to install Beautifulsoup4.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install following packages:
+* Mechanize
+* Beautifulsoup4
 
 ```bash
 pip install Mechanize

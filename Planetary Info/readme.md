@@ -10,6 +10,10 @@ Planetary Info Scraper is a simple python tkinter based application to scrape in
 
 The application requires an active internet connection for fetching result.
 
+## How to Download
+
+Download this project from here [Download Weatherzilla - Planetary Info Scraper](https://downgit.github.io/#/home?url=https://github.com/pyGuru123/Tkinter-Applications/tree/master/Planetary%20Info)
+
 ## Requirements
 
 Requests : Use the package manager [pip](https://pip.pypa.io/en/stable/) to install Requests.

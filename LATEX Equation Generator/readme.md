@@ -6,6 +6,10 @@ LATEX EG is a simple python tkinter based application to generate LATEX equation
 
 Images are generated using the Google charts API whose documentation can be found here [Charts](https://developers.google.com/chart/infographics/docs/formulas)
 
+## How to Download
+
+Download this project from here [Download Weatherzilla - LATEX Equation Generator](https://downgit.github.io/#/home?url=https://github.com/pyGuru123/Tkinter-Applications/tree/master/LATEX%20Equation%20Generator)
+
 ## Requirements
 
 Requests : Use the package manager [pip](https://pip.pypa.io/en/stable/) to install requests.

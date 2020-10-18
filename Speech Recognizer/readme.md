@@ -6,11 +6,15 @@ Speech Recognizer is a simple python tkinter based application to speech recogni
 
 The application requires an active internet connection for Speech Recognition.
 
+## How to Download
+
+Download this project from here [Download Weatherzilla - Speech Recognizer](https://downgit.github.io/#/home?url=https://github.com/pyGuru123/Tkinter-Applications/tree/master/Speech%20Recognizer)
+
 ## Requirements
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install following packages :-
-1> SpeechRecognition
-2> pypiwin32
+* SpeechRecognition
+* pypiwin32
 
 ```bash
 pip install SpeechRecognition

@@ -4,11 +4,15 @@ Graph Visualizer is a simple python tkinter based application to visualize graph
 
 ![Alt text](app.png?raw=true "Graph Visualizer")
 
+## How to Download
+
+Download this project from here [Download Weatherzilla - Graph Visualizer](https://downgit.github.io/#/home?url=https://github.com/pyGuru123/Tkinter-Applications/tree/master/Graph%20Visualizer)
+
 ## Requirements
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install following packages :-
-1> Numpy
-2> Matplotlib
+* Numpy
+* Matplotlib
 
 ```bash
 pip install numpy

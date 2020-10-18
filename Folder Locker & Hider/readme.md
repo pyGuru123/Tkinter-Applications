@@ -7,6 +7,10 @@ using simple windows property
 
 This app is only for windows platform
 
+## How to Download
+
+Download this project from here [Download Weatherzilla - Folder Locker & Hider](https://downgit.github.io/#/home?url=https://github.com/pyGuru123/Tkinter-Applications/tree/master/Folder%20Locker%20%26%20Hider)
+
 ## Requirements
 
 	No external package is required

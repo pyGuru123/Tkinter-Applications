@@ -4,6 +4,10 @@ It is a simple python tkinter based application to change desktop wallpapers. Su
 
 ![Alt text](app.png?raw=true "Desktop Wallpaper Changer")
 
+## How to Download
+
+Download this project from here [Download Weatherzilla - Desktop Wallpaper Changer](https://downgit.github.io/#/home?url=https://github.com/pyGuru123/Tkinter-Applications/tree/master/Desktop%20Wallpaper%20Changer)
+
 ## Requirements
 
 Requests : Use the package manager [pip](https://pip.pypa.io/en/stable/) to install requests.

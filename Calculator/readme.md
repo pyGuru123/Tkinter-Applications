@@ -4,6 +4,10 @@ Calculator is a simple python tkinter based calculator application.
 
 ![Alt text](app.png?raw=true "Calculator")
 
+## How to Download
+
+Download this project from here [Download Weatherzilla - Calculator](https://downgit.github.io/#/home?url=https://github.com/pyGuru123/Tkinter-Applications/tree/master/Calculator)
+
 ## Requirements
 
 No external library / module is required.
