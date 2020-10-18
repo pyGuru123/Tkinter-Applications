@@ -6,7 +6,7 @@ Graph Visualizer is a simple python tkinter based application to visualize graph
 
 ## How to Download
 
-Download this project from here [Download Weatherzilla - Graph Visualizer](https://downgit.github.io/#/home?url=https://github.com/pyGuru123/Tkinter-Applications/tree/master/Graph%20Visualizer)
+Download this project from here [Download Graph Visualizer](https://downgit.github.io/#/home?url=https://github.com/pyGuru123/Tkinter-Applications/tree/master/Graph%20Visualizer)
 
 ## Requirements
 

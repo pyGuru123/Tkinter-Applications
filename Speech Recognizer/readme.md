@@ -8,7 +8,7 @@ The application requires an active internet connection for Speech Recognition.
 
 ## How to Download
 
-Download this project from here [Download Weatherzilla - Speech Recognizer](https://downgit.github.io/#/home?url=https://github.com/pyGuru123/Tkinter-Applications/tree/master/Speech%20Recognizer)
+Download this project from here [Download Speech Recognizer](https://downgit.github.io/#/home?url=https://github.com/pyGuru123/Tkinter-Applications/tree/master/Speech%20Recognizer)
 
 ## Requirements
 

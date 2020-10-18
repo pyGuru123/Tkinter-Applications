@@ -8,7 +8,7 @@ Images are generated using the Google charts API whose documentation can be foun
 
 ## How to Download
 
-Download this project from here [Download Weatherzilla - LATEX Equation Generator](https://downgit.github.io/#/home?url=https://github.com/pyGuru123/Tkinter-Applications/tree/master/LATEX%20Equation%20Generator)
+Download this project from here [Download LATEX Equation Generator](https://downgit.github.io/#/home?url=https://github.com/pyGuru123/Tkinter-Applications/tree/master/LATEX%20Equation%20Generator)
 
 ## Requirements
 

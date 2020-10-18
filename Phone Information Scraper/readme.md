@@ -6,7 +6,7 @@ It is a simple python tkinter based application to scrape information related to
 
 ## How to Download
 
-Download this project from here [Download Weatherzilla - Phone Information Scraper](https://downgit.github.io/#/home?url=https://github.com/pyGuru123/Tkinter-Applications/tree/master/Phone%20Information%20Scraper)
+Download this project from here [Download Phone Information Scraper](https://downgit.github.io/#/home?url=https://github.com/pyGuru123/Tkinter-Applications/tree/master/Phone%20Information%20Scraper)
 
 ## Requirements
 

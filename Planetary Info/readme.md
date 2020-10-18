@@ -12,7 +12,7 @@ The application requires an active internet connection for fetching result.
 
 ## How to Download
 
-Download this project from here [Download Weatherzilla - Planetary Info Scraper](https://downgit.github.io/#/home?url=https://github.com/pyGuru123/Tkinter-Applications/tree/master/Planetary%20Info)
+Download this project from here [Download Planetary Info Scraper](https://downgit.github.io/#/home?url=https://github.com/pyGuru123/Tkinter-Applications/tree/master/Planetary%20Info)
 
 ## Requirements
 

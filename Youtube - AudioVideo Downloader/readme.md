@@ -8,7 +8,7 @@ The application requires an active internet connection for downloading mp4/mp3.
 
 ## How to Download
 
-Download this project from here [Download Weatherzilla - SaveFromYT](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2FpyGuru123%2FTkinter-Applications%2Ftree%2Fmaster%2FYoutube%20-%20AudioVideo%20Downloader)
+Download this project from here [Download SaveFromYT](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2FpyGuru123%2FTkinter-Applications%2Ftree%2Fmaster%2FYoutube%20-%20AudioVideo%20Downloader)
 
 ## Requirements
 
