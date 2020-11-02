@@ -50,6 +50,9 @@ class Application(tk.Frame):
 		self.video_quality = tk.StringVar()
 		self.filesize = 0
 
+		self.is_video_downloading = False
+		self.is_audio_downloading = False
+
 		self.draw_title_frame()
 		self.draw_main_frame()
 
@@ -131,7 +134,7 @@ class Application(tk.Frame):
 		self.options['menu'].config(bg='red', fg='white')
 		self.options.grid(row=0, column=0, padx=50, pady=20, columnspan=5)
 
-		self.video_dwn = tk.Button(self.video_frame, text='Download Video',
+		self.video_dwn = tk.Button(self.video_frame, text='Download MP4',
 							command=self.download_video, bg='red', fg='white',
 							width=15, cursor='hand2')
 		self.video_dwn.grid(row=1, column=0, padx=50, pady=10, columnspan=5)
@@ -147,6 +150,22 @@ class Application(tk.Frame):
 		self.back = tk.Button(self.back_frame, text='back', image=back_icon,
 							command=self.go_back, relief=tk.FLAT)
 		self.back.grid(row=0, column=0, pady=10, padx=10)
+
+	def cease_buttons(self):
+		if self.is_video_downloading:
+			self.video_dwn['text'] = 'downloading'
+		if self.is_audio_downloading:
+			self.audio_dwn['text'] = 'downloading'
+		self.video_dwn.config(state='disabled')
+		self.audio_dwn.config(state='disabled')
+
+	def release_buttons(self):
+		self.video_dwn.config(state='normal')
+		self.audio_dwn.config(state='normal')
+		if not self.is_video_downloading:
+			self.video_dwn['text'] = 'Download MP4'
+		if not self.is_audio_downloading:
+			self.audio_dwn['text'] = 'Download MP3'
 
 	def search_video(self, event=None):
 		self.url = self.entry.get()
@@ -183,6 +202,8 @@ class Application(tk.Frame):
 						initialfile=self.video_title[:25]+'.mp4',
 						filetypes=filetypes)
 		if filepath:
+			self.is_video_downloading = True
+			self.cease_buttons()
 			vq = self.video_quality.get()
 			l = len(self.streams)
 			opts = [str(stream) for stream in self.option_streams]
@@ -205,6 +226,8 @@ class Application(tk.Frame):
 			
 			self.pb.destroy()
 			self.sizelabel.destroy()
+			self.is_video_downloading = False
+			self.release_buttons()
 			
 
 	def download_callback(self, total, recvd, ratio, rate, eta):
@@ -233,6 +256,9 @@ class Application(tk.Frame):
 				'progress_hooks': [self.download_hook]
 			}
 
+			self.is_audio_downloading = True
+			self.cease_buttons()
+
 			try:
 				self.pb = ttk.Progressbar(self.audio_frame, orient=tk.HORIZONTAL, 
 							mode='determinate', length=100)
@@ -249,6 +275,9 @@ class Application(tk.Frame):
 				messagebox.showinfo('SaveFromYT', 'Successfully Downloaded Mp3')
 			except:
 				messagebox.showinfo('SaveFromYT', "Can't connect with internet")
+
+			self.is_audio_downloading = False
+			self.release_buttons()
 
 	def download_hook(self, d):
 		if d['status'] == 'downloading':
