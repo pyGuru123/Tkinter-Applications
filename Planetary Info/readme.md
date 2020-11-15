@@ -1,5 +1,9 @@
 # Planetary Info Scraper
 
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+
 Planetary Info Scraper is a simple python tkinter based application to scrape information related to planets, moons, stars of our solar system and nearby regions. Data is retrieved from these two APIs whose documentation can be found here
 
 [Hubblesite API](http://hubblesite.org/api/documentation)

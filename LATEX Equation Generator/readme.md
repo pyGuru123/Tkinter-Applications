@@ -1,5 +1,9 @@
 # LATEX Equation Generator
 
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+
 LATEX EG is a simple python tkinter based application to generate LATEX equations in image formats which can be later embedded in webpages and other supported files. The app requires an active internet connection to generate images.
 
 ![Alt text](app.png?raw=true "LATEX Equation Generator")

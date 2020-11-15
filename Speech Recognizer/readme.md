@@ -1,5 +1,9 @@
 # Speech Recognizer
 
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+
 Speech Recognizer is a simple python tkinter based application to speech recognition and text to speech conversion.
 
 ![Alt text](app.png?raw=true "Speech Recognizer")

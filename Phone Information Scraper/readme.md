@@ -1,5 +1,9 @@
 # Phone Information Scraper
 
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+
 It is a simple python tkinter based application to scrape information related to the entered phone number from [find and trace](https://www.findandtrace.com/trace-mobile-number-location) website. The application requires an active internet connection for fetching result. The app scrapes phone information for indian number only.
 
 ![Alt text](app.png?raw=true "Phone Information Scraper")

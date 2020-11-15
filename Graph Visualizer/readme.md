@@ -1,5 +1,9 @@
 # Graph Visualizer
 
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+
 Graph Visualizer is a simple python tkinter based application to visualize graphs for given six trigonoetric ratios : sin, cosine, tan, sec, cosec and cot.
 
 ![Alt text](app.png?raw=true "Graph Visualizer")

@@ -1,5 +1,9 @@
 # Desktop Wallpaper Changer
 
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+
 It is a simple python tkinter based application to change desktop wallpapers. Support for both random online and offline wallpapers
 
 ![Alt text](app.png?raw=true "Desktop Wallpaper Changer")

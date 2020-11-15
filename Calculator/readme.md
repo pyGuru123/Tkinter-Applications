@@ -1,5 +1,9 @@
 # Calculator
 
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+
 Calculator is a simple python tkinter based calculator application.
 
 ![Alt text](app.png?raw=true "Calculator")
