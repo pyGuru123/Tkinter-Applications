@@ -1,0 +1,6 @@
+instaloader==4.5.5
+lxml==4.5.0
+requests==2.22.0
+psutil==5.7.2
+beautifulsoup4==4.9.3
+Pillow==8.1.0
