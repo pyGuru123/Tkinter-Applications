@@ -13,7 +13,7 @@ The application requires an active internet connection for downloading posts.
 
 ## How to Download
 
-Download this project from here [Download InstaDownloader](https://downgit.github.io/#/home?url=https://github.com/pyGuru123/Tkinter-Applications/tree/master/Instagram%20Post%20downloader)
+Download this project from here [Download InstaDownloader](https://downgit.github.io/#/home?url=https://github.com/pyGuru123/Tkinter-Applications/tree/master/Instagram%20Batch%20post%20downloader)
 
 ## Requirements
 
