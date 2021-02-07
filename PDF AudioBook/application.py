@@ -163,7 +163,7 @@ class Application(tk.Frame):
 
 					self.pagevar.set('')
 
-	def speaker_toggle(self):
+	def speaker_toggle(self, event=None):
 		if not self.speaker_on:
 			self.speaker_on = True
 			self.speak_btn['image'] = speakon_icon
@@ -224,7 +224,6 @@ if __name__ == '__main__':
 	down_icon = PhotoImage(file='icons/down.png')
 	speakon_icon = PhotoImage(file='icons/speaker.png')
 	speakoff_icon = PhotoImage(file='icons/mute.png')
-	bg = PhotoImage(file='icons/bg.png')
 
 	app = Application(master=root)
 	app.mainloop()
