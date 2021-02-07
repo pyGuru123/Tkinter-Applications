@@ -14,7 +14,9 @@ Download this project from here [Download PDF AudioBook](https://downgit.github.
 
 ## Requirements
 
-PyMuPDF : Use the package manager [pip](https://pip.pypa.io/en/stable/) to install PyMuPDF.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install following packages :-
+* pymupdf
+* pyttsx3==2.71
 
 ```bash
 pip install pymupdf
